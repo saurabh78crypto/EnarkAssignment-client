@@ -16,7 +16,7 @@ This project is the frontend component of a simple CRUD (Create, Read, Update, D
 
 1. Clone the repository
 ```
-
+https://github.com/saurabh78crypto/EnarkAssignment-client.git
 ```
 2. Navigate to the project directory
 ```
